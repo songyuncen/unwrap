@@ -1,0 +1,31 @@
+                        Software Accompanying
+Two-dimensional Phase Unwrapping: Theory, Algorithms, and Software
+              by Dennis C. Ghiglia and Mark D. Pritt
+
+              Published by John Wiley and Sons, Inc.
+               Copyright 1998, all rights reserved
+
+  These are the C language source code files listed in Appendix
+  A of the book.  See the appendix for a user's manual for the
+  software.
+  
+  License:  If you are the individual owner of a copy of the
+  above-named book, we hereby authorize you to download one copy
+  of each program for your noncommercial use.  You are not
+  authorized to transfer or distribute a machine-readable copy
+  to any other person.
+  
+  DISCLAIMER OF WARRANTY:  THESE COMPUTER PROGRAMS ARE PROVIDED
+  "AS-IS".  WE MAKE NO REPRESENTATION OR WARRANTIES, EXPRESS OR
+  IMPLIED.  BY WAY OF EXAMPLE, BUT NOT OF LIMITATION, WE MAKE
+  NO REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS
+  FOR ANY PARTICULAR PURPOSE, OR THAT THE USE OF THE COMPUTER
+  PROGRAMS WILL NOT INFRINGE ANY PATENTS, COPYRIGHTS OR ANY
+  OTHER RIGHTS OF ANY THIRD PARTY.  THE AUTHORS, THE PUBLISHER,
+  LOCKHEED MARTIN CORPORATION, AND SANDIA NATIONAL LABORATORIES
+  SHALL NOT BE HELD TO ANY LIABILITY WITH RESPECT TO ANY CLAIM
+  BY A THIRD PARTY ON ACCOUNT OF, OR ARISING FROM, THE USE OF
+  THESE COMPUTER PROGRAMS, INCLUDING, BUT NOT LIMITED TO 
+  LIABILITY FOR LOST PROFITS, LOSS OF USE, AND CONSEQUENTIAL
+  OR SIMILAR DAMAGE. 
+
